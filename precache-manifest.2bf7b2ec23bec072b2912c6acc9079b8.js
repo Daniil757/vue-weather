@@ -30,5 +30,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "./robots.txt"
-  }
+  },
+    {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7cr",
+    "url": "./img/cold-bg.c97cb84b.jpg"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7cy",
+    "url": "./img/warm-bg.635ed87d.jpg"
+  },
 ]);
